@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bob Kimani</h1>
+<h1 align="center">Hola , I'm Bob Kimani</h1>
 <h3 align="center">Software Engineer by trade, problem-solver by obsession</h3>
 
 ---
